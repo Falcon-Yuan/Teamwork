@@ -1,0 +1,501 @@
+
+
+
+2021-11-28 10:22:02
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => 914gikq0jutvoovm0sau3fm1i8
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa:2:{i:0;s:5:"_csrf";i:1;s:32:"f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [Referer] => http://127.0.0.1:66/test1/backend/web/news
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=914gikq0jutvoovm0sau3fm1i8; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:22:04
+Array
+(
+    [Get] => Array
+        (
+            [tag] => 61a2e7caefe98
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => 914gikq0jutvoovm0sau3fm1i8
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa:2:{i:0;s:5:"_csrf";i:1;s:32:"f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [X-Requested-With] => XMLHttpRequest
+            [sec-ch-ua-mobile] => ?0
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [sec-ch-ua-platform] => "Windows"
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://127.0.0.1:66/test1/backend/web/rumour
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=914gikq0jutvoovm0sau3fm1i8; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:22:06
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => 914gikq0jutvoovm0sau3fm1i8
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa:2:{i:0;s:5:"_csrf";i:1;s:32:"f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [Referer] => http://127.0.0.1:66/test1/backend/web/news
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=914gikq0jutvoovm0sau3fm1i8; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:22:07
+Array
+(
+    [Get] => Array
+        (
+            [tag] => 61a2e7ce330ed
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => 914gikq0jutvoovm0sau3fm1i8
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa:2:{i:0;s:5:"_csrf";i:1;s:32:"f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [X-Requested-With] => XMLHttpRequest
+            [sec-ch-ua-mobile] => ?0
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [sec-ch-ua-platform] => "Windows"
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://127.0.0.1:66/test1/backend/web/rumour
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=914gikq0jutvoovm0sau3fm1i8; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:22:32
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => 914gikq0jutvoovm0sau3fm1i8
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa:2:{i:0;s:5:"_csrf";i:1;s:32:"f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [Referer] => http://127.0.0.1:66/test1/backend/web/news
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=914gikq0jutvoovm0sau3fm1i8; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:22:33
+Array
+(
+    [Get] => Array
+        (
+            [tag] => 61a2e7e846ce6
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => 914gikq0jutvoovm0sau3fm1i8
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa:2:{i:0;s:5:"_csrf";i:1;s:32:"f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [X-Requested-With] => XMLHttpRequest
+            [sec-ch-ua-mobile] => ?0
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [sec-ch-ua-platform] => "Windows"
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://127.0.0.1:66/test1/backend/web/rumour
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=914gikq0jutvoovm0sau3fm1i8; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=22185190baeac405c87a1aec06d4877a408bcccb5b20af0acc3c095d476ef23fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22f9BWT2MQ3wZfjJtVmFpb84lOHyHuhJXe%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:34:10
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => jvds8sh80dhfmi1bf9603d2379
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a:2:{i:0;s:5:"_csrf";i:1;s:32:"h7adAobA7Rj2wXALdQKrm_L-VOEtZegs";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Referer] => http://127.0.0.1:66/test1/backend/web/site/login
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=jvds8sh80dhfmi1bf9603d2379; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22h7adAobA7Rj2wXALdQKrm_L-VOEtZegs%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:35:25
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => jvds8sh80dhfmi1bf9603d2379
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a:2:{i:0;s:5:"_csrf";i:1;s:32:"h7adAobA7Rj2wXALdQKrm_L-VOEtZegs";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-Dest] => document
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Referer] => http://127.0.0.1:66/test1/backend/web/wish
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=jvds8sh80dhfmi1bf9603d2379; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22h7adAobA7Rj2wXALdQKrm_L-VOEtZegs%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:36:12
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => jvds8sh80dhfmi1bf9603d2379
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a:2:{i:0;s:5:"_csrf";i:1;s:32:"h7adAobA7Rj2wXALdQKrm_L-VOEtZegs";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [Referer] => http://127.0.0.1:66/test1/backend/web/wish
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=jvds8sh80dhfmi1bf9603d2379; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22h7adAobA7Rj2wXALdQKrm_L-VOEtZegs%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:37:29
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => jvds8sh80dhfmi1bf9603d2379
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a:2:{i:0;s:5:"_csrf";i:1;s:32:"h7adAobA7Rj2wXALdQKrm_L-VOEtZegs";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [Referer] => http://127.0.0.1:66/test1/backend/web/wish
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=jvds8sh80dhfmi1bf9603d2379; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22h7adAobA7Rj2wXALdQKrm_L-VOEtZegs%22%3B%7D
+        )
+
+)
+
+
+
+2021-11-28 10:37:36
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+        )
+
+    [Cookie] => Array
+        (
+            [PHPSESSID] => jvds8sh80dhfmi1bf9603d2379
+            [_identity] => 3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da:2:{i:0;s:9:"_identity";i:1;s:47:"[39,"IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL",2592000]";}
+            [_csrf] => 5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a:2:{i:0;s:5:"_csrf";i:1;s:32:"h7adAobA7Rj2wXALdQKrm_L-VOEtZegs";}
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => 127.0.0.1:66
+            [Connection] => keep-alive
+            [Cache-Control] => max-age=0
+            [sec-ch-ua] => " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+            [sec-ch-ua-mobile] => ?0
+            [sec-ch-ua-platform] => "Windows"
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => navigate
+            [Sec-Fetch-User] => ?1
+            [Sec-Fetch-Dest] => document
+            [Referer] => http://127.0.0.1:66/test1/backend/web/wish
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => PHPSESSID=jvds8sh80dhfmi1bf9603d2379; _identity=3d4f997b53e8b324b167b1c8292545060b2349c394d7806425edf22fe18e383da%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B39%2C%22IPp6ueA5GyLD-52C8Qy2C0rKt7UBPlOL%22%2C2592000%5D%22%3B%7D; _csrf=5535f0b5bbeaeda5f3f1c08ac42bd9bf874cfc930c268f7c8e5f1a553aec5133a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22h7adAobA7Rj2wXALdQKrm_L-VOEtZegs%22%3B%7D
+        )
+
+)
